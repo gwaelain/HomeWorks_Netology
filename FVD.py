@@ -157,7 +157,7 @@ class TokenForApi:
                 id_user = 717790177
                 token_yandex = input("Введите token с полигона Yandex: ")
             if token_yandex == '':
-                token_yandex == y0_AgAAAAAGNd34AADLWwAAAADS1FC1Z - CMAAs5TMiL396aot8DDLQ3jgc
+                token_yandex == 
 
 
     def input_id_and_token():
